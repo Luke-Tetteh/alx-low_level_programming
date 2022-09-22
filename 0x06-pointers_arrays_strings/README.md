@@ -1,1 +1,1 @@
-add more pointers, arrays and strings
+0x06. c - More pointers, arrays and strings
