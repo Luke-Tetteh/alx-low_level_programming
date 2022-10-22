@@ -17,7 +17,3 @@ size_t list_len(const list_t *h)
 	}
 	return (nelem);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
